@@ -2,7 +2,7 @@ from collections import deque
 from math import pi
 
 print('==================================')
-print('studiyng data structures in python')
+print('studiyng data structures in python (part 1)')
 print('==================================\n')
 
 fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana' ]
