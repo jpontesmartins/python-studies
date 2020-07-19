@@ -25,8 +25,8 @@ print('add facts')
 
 # get all facts
 print('get all facts!')
-# for row in get_all():
-#     print(row)
+for row in get_all():
+    print(row)
 
 # get a fact
 print('get a fact')
